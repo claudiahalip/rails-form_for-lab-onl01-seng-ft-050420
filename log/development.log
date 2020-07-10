@@ -431,3 +431,17 @@ Processing by StudentsController#new as HTML
 Completed 200 OK in 31ms (Views: 29.0ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/students/new" for 67.175.194.102 at 2020-07-10 01:28:01 +0000
+Processing by StudentsController#new as HTML
+  Rendering students/new.html.erb within layouts/application
+  Rendered students/new.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 33ms (Views: 31.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/students/new" for 67.175.194.102 at 2020-07-10 01:28:02 +0000
+Processing by StudentsController#new as HTML
+  Rendering students/new.html.erb within layouts/application
+  Rendered students/new.html.erb within layouts/application (4.8ms)
+Completed 200 OK in 25ms (Views: 23.4ms | ActiveRecord: 0.0ms)
+
+
